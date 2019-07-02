@@ -17,6 +17,6 @@ Programas para el curso de Análisis Forense
 	
 		python3 fdisk_r4.py unidad_C config.json
 
-	![json](json.jpg)
-	![Ejecucion](ejecucion.jpg)
-	![Resultado](resultado.jpg)
+	![json](json.JPG)
+	![Ejecucion](https://github.com/Svare/Analisis_Forense/blob/master/ejecucion.JPG)
+	![Resultado](./resultado.jpg)
