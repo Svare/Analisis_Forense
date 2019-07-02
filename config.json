@@ -1,0 +1,7 @@
+{
+    "size" : "+100M",
+    "first": [83, "default", "+50M"],
+    "second": [82, "default", "+20M"],
+    "third": [7, "default", "+20M"],
+    "extended": [5, "default", "default"]
+}
