@@ -16,14 +16,14 @@ Programas para el curso de Análisis Forense
 	Ejemplo de ejecucion:
 	
 		python3 fdisk_r4.py unidad_C config.json
-#Ejecucion
+# Ejecucion
 	
 ![Ejecucion](https://raw.githubusercontent.com/Svare/Analisis_Forense/master/ejecucion.JPG)
 
-#JSON
+# JSON
 	
 ![Ejecucion](https://raw.githubusercontent.com/Svare/Analisis_Forense/master/json.JPG)
 
-#fdisk
+# fdisk
 	
 ![Ejecucion](https://raw.githubusercontent.com/Svare/Analisis_Forense/master/resultado.JPG)
