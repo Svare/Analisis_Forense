@@ -19,6 +19,6 @@ Programas para el curso de Análisis Forense
 
 	![json](json.JPG)
 	
-	![Ejecucion](https://github.com/Svare/Analisis_Forense/blob/master/ejecucion.jpg)
+	![Ejecucion](https://raw.githubusercontent.com/Svare/Analisis_Forense/master/ejecucion.JPG)
 	
 	![Resultado](./resultado.jpg)
