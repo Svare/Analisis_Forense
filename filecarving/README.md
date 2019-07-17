@@ -50,12 +50,12 @@ bytes que se desean te tamaño maximo.
 
 ## Configuracion
 
-![Config](https://raw.githubusercontent.com/Svare/Analisis_Forense/master/ejecucion.JPG)
+![Config](https://raw.githubusercontent.com/Svare/Analisis_Forense/master/filecarving/imagenes/config.JPG)
 
 ## Resultado
 
-![Res](https://raw.githubusercontent.com/Svare/Analisis_Forense/master/ejecucion.JPG)
+![Res](https://raw.githubusercontent.com/Svare/Analisis_Forense/master/filecarving/imagenes/ejecucion.JPG)
 
 ## Abriendo JPG
 
-![JPG](https://raw.githubusercontent.com/Svare/Analisis_Forense/master/ejecucion.JPG)
+![JPG](https://raw.githubusercontent.com/Svare/Analisis_Forense/master/filecarving/imagenes/jpg.JPG)
