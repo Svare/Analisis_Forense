@@ -1,0 +1,8 @@
+{
+    "exe" : [true, "5M"],
+    "zip" : [true, ""],
+    "png" : [true, ""],
+    "jpg" : [true, ""],
+    "mp3" : [true, "2M"],
+    "default": 10
+}
